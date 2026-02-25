@@ -53,3 +53,6 @@ body {
     padding-bottom: 10%;
     margin: auto;
 }
+
+.text-white.bg-info.mb-3 {
+  border-radius: 25px;}
